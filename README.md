@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AsifJishan
 - 👀 I’m interested in AI and Data Science
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on open-source projects
+- 💞️ I’m looking forward to collaborate on open-source projects
 - 📫 How to reach me: feel free to mail me
 - ⚡ Fun fact: After studying Computer Science & Engineering for two years, now i have less knowledge than i begun with.
 
